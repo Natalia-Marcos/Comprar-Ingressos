@@ -2,10 +2,6 @@
 
 Bem-vindo ao projeto **e-Ticket**! Este projeto foi criado para simular a experiência de compra de ingressos online. Com ele, você pode selecionar o tipo de ingresso, escolher a quantidade desejada e realizar a compra, com verificação em tempo real da disponibilidade.
 
-<p align="center">
-  <img src="caminho-para-sua-imagem.png" alt="Imagem do projeto e-Ticket">
-</p>
-
 ## 🎨 Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página.
@@ -28,7 +24,7 @@ Bem-vindo ao projeto **e-Ticket**! Este projeto foi criado para simular a experi
 
 ## 📸 Screenshot
 
-![e-Ticket: Compra de Ingressos](caminho-para-sua-imagem.png)
+![e-Ticket: Compra de Ingressos]((https://github.com/user-attachments/assets/fb75cb2c-3a6d-495b-b917-65352a49aff1)
 
 ## 📝 Observações
 
@@ -39,10 +35,4 @@ Bem-vindo ao projeto **e-Ticket**! Este projeto foi criado para simular a experi
 
 Para visualizar e testar o projeto, basta abrir o arquivo `index.html` no seu navegador.
 
-## 🖼️ Design
-
-O design do projeto é moderno, utilizando uma paleta de cores escuras com elementos visuais atraentes que proporcionam uma experiência de usuário intuitiva e agradável.
-
----
-
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Natália
