@@ -24,7 +24,7 @@ Bem-vindo ao projeto **e-Ticket**! Este projeto foi criado para simular a experi
 
 ## 📸 Screenshot
 
-![e-Ticket: Compra de Ingressos]((https://github.com/user-attachments/assets/fb75cb2c-3a6d-495b-b917-65352a49aff1)
+![e-Ticket: Compra de Ingressos](https://github.com/user-attachments/assets/fb75cb2c-3a6d-495b-b917-65352a49aff1)
 
 ## 📝 Observações
 
